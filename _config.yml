@@ -1,8 +1,12 @@
-layout_spectrum: 0.9255457
+typography_spectrum: 0.05734566
 color:
   saturation: 0.7670251
   brandStrength: 0.1996582
   lightness: 0.8172043
   rhythmicContrast: 0.06451613
-typography_spectrum: 0.05734566
+layout_spectrum: 0.9255457
+author:
+  name: Kristoffer
+  email: ksvarre@gmail.com
 name: Krsnews
+title: 'What I want you to know!'
