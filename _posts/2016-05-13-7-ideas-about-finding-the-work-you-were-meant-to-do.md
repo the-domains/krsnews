@@ -22,8 +22,8 @@ inLanguage: en
 app_links: []
 isBasedOnUrl: 'http://blog.ed.ted.com/2016/05/10/7-ideas-about-finding-the-work-you-were-meant-to-do/'
 title: 7 ideas about finding the work you were meant to do
-datePublished: '2016-05-13T07:22:42.158Z'
-dateModified: '2016-05-13T07:22:42.082Z'
+datePublished: '2016-05-13T07:23:24.499Z'
+dateModified: '2016-05-13T07:19:25.191Z'
 starred: false
 sourcePath: _posts/2016-05-13-7-ideas-about-finding-the-work-you-were-meant-to-do.md
 inFeed: true
