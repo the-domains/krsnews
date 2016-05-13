@@ -1,0 +1,14 @@
+layout_spectrum: 0.9255457
+typography_spectrum: 0.05734566
+color:
+  saturation: 0.8835088
+  lightness: 0.6860828
+  brandStrength: 0.1996582
+  rhythmicContrast: 0.09275251
+  brandColors:
+    - '#3C493F'
+    - '#7E8D85'
+    - '#B3BFB8'
+    - '#F0F7F4'
+    - '#A2E3C4'
+name: Krsnews
