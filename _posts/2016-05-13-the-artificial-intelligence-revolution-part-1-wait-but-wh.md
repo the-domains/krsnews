@@ -25,8 +25,8 @@ inLanguage: en
 app_links: []
 isBasedOnUrl: 'http://waitbutwhy.com/2015/01/artificial-intelligence-revolution-1.html'
 title: 'The Artificial Intelligence Revolution: Part 1 - Wait But Why'
-datePublished: '2016-05-13T07:22:47.050Z'
-dateModified: '2016-05-13T07:22:46.934Z'
+datePublished: '2016-05-13T07:23:13.797Z'
+dateModified: '2016-05-13T07:20:34.284Z'
 starred: false
 sourcePath: _posts/2016-05-13-the-artificial-intelligence-revolution-part-1-wait-but-wh.md
 inFeed: true
