@@ -2,10 +2,17 @@
     <channel>
         <title><![CDATA[What I want you to know!]]></title>
         <description><![CDATA[What I want you to know!]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/krsnews/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 13 May 2016 07:22:51 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Fri, 13 May 2016 07:23:05 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/krsnews/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[The Artificial Intelligence Revolution: Part 1 - Wait But Why]]></title>
+            <description><![CDATA[<article><h1>The Artificial Intelligence Revolution: Part 1 - Wait But Why</h1><p>PDF: We made a fancy PDF of this post for printing and offline viewing. Buy it here. (Or see a preview.) Note: The reason this post took three weeks to finish is that as I dug into research on Artificial Intelligence, I could not believe what I was reading.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/815ab97d927d3a9bc68a6d86f5863988fd362a1e.jpg"></article>]]></description>
+            <link>http://waitbutwhy.com/2015/01/artificial-intelligence-revolution-1.html</link>
+            <guid isPermaLink="false">44fe3e31-7953-4af5-8ec1-0ea20ef0d0c3</guid>
+            <pubDate>Fri, 13 May 2016 07:22:47 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[7 ideas about finding the work you were meant to do]]></title>
             <description><![CDATA[<article><h1>7 ideas about finding the work you were meant to do</h1><p>Whether it was during a career aptitude test or in a heart-to-heart chat, chances are someone has talked to you about how to "find your calling." It's one of those phrases people toss about. But StoryCorps founder Dave Isay takes issue with it ... specifically, the verb.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/6e6a9b682d1b225346e468f8e189fe9149d7066e.png"></article>]]></description>
