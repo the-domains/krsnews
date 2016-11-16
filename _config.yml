@@ -1,3 +1,41 @@
+typography_spectrum: 0.571933125991116
+color:
+  saturation: 0.3203553657206974
+  brandStrength: 0.2511374051336863
+  rhythmicContrast: 0.13620826622148477
+  lightness: 0.13698965481288805
+  brandColors:
+    - '#000000'
+    - '#FFFFFF'
+    - '#725700'
+    - '#FC2E8D'
+    - '#E6B600'
+github: true
+layout_spectrum: 0.24072570168643748
+analytics:
+  google: UA-79126334-1
+author:
+  name: Kristoffer Rose Svarre
+  email: ksvarre@gmail.com
+  url: 'https://www.linkedin.com/in/ksvarre'
+logo: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/de020ac7-2fe6-4d40-ae86-1204981717c6.png
+name: Motivation & Personal Development
+navigation:
+  - name: Home
+    url: 'http://think-like.me'
+    type: external
+  - name: Technology & Science
+    url: 'http://ai.think-like.me'
+    type: external
+  - name: 'Business, Innovation & Entrepreneurship'
+    url: 'http://business.think-like.me'
+    type: external
+  - name: About Me
+    url: 'https://www.linkedin.com/in/ksvarre'
+    type: external
+favicon: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/926f16c3-baf6-4569-b2d2-a2fbd140b05c.png
 collections:
   - index:
       path: /
@@ -10,11 +48,6 @@ collections:
       path: /rss.xml
       format: rss
       number: 10
-color:
-  saturation: 0.7670251
-  brandStrength: 0.1996582
-  rhythmicContrast: 0.06451613
-  lightness: 0.8172043
-typography_spectrum: 1
-layout_spectrum: 0.4193548
-name: Krsnews
+title: Motivation & Personal Development
+content: []
+description: motivation. inspiration. development.
