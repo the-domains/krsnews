@@ -56,14 +56,14 @@ app_links:
 isBasedOnUrl: >-
   http://www.dailymail.co.uk/femail/article-3607244/Hostage-negotiator-reveals-tactics-want.html
 title: How to use hostage negotiation tactics to get what you want
-datePublished: '2017-06-09T06:33:46.665Z'
-dateModified: '2016-05-25T11:29:45.777Z'
-starred: false
-datePublishedOriginal: '2017-06-09T06:33:46.665Z'
+datePublished: '2017-06-09T16:30:11.343Z'
+dateModified: '2017-06-09T16:30:10.443Z'
 via: {}
 inFeed: true
 sourcePath: >-
   _posts/2017-06-09-how-to-use-hostage-negotiation-tactics-to-get-what-you-want.md
+starred: false
+datePublishedOriginal: '2017-06-09T06:33:46.665Z'
 _context: 'http://schema.org'
 _type: MediaObject
 
