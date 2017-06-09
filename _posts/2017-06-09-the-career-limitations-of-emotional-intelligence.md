@@ -43,8 +43,8 @@ app_links: []
 isBasedOnUrl: >-
   http://www.fastcompany.com/3060123/how-to-be-a-success-at-everything/the-career-limitations-of-emotional-intelligence?partner=rss#/web/sources/806307389
 title: The Career Limitations Of Emotional Intelligence
-datePublished: '2017-06-09T16:29:45.679Z'
-dateModified: '2017-06-09T16:29:45.331Z'
+datePublished: '2017-06-09T16:30:11.234Z'
+dateModified: '2017-06-09T16:30:10.443Z'
 via: {}
 inFeed: true
 sourcePath: _posts/2017-06-09-the-career-limitations-of-emotional-intelligence.md
