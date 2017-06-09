@@ -17,18 +17,24 @@ keywords:
   - to-do
   - easy
   - need
-description: "With an endless number of sites, tools, and resources out there, how do you know what's worth your time? Well, we know just how busy you are, so we did the legwork for you and found 99 websites that'll add value to your life and your career, guaranteed."
+description: >-
+  With an endless number of sites, tools, and resources out there, how do you
+  know what's worth your time? Well, we know just how busy you are, so we did
+  the legwork for you and found 99 websites that'll add value to your life and
+  your career, guaranteed.
 inLanguage: en
 app_links: []
-isBasedOnUrl: 'https://www.themuse.com/advice/99-sites-that-every-professional-should-know-about-and-use-1'
+isBasedOnUrl: >-
+  https://www.themuse.com/advice/99-sites-that-every-professional-should-know-about-and-use-1
 title: 99 Sites That Every Professional Should Know About and Use
-datePublished: '2016-05-13T07:23:20.500Z'
-dateModified: '2016-05-13T07:18:50.095Z'
+datePublished: '2017-06-09T16:30:11.344Z'
+dateModified: '2017-06-09T16:30:10.443Z'
+sourcePath: >-
+  _posts/2016-05-13-99-sites-that-every-professional-should-know-about-and-use.md
 starred: false
-sourcePath: _posts/2016-05-13-99-sites-that-every-professional-should-know-about-and-use.md
+datePublishedOriginal: '2016-05-13T07:23:20.500Z'
+via: {}
 inFeed: true
-hasPage: false
-inNav: false
 _context: 'http://schema.org'
 _type: MediaObject
 
