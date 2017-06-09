@@ -25,8 +25,8 @@ description: Click to read the full article…
 inLanguage: en
 app_links: []
 title: 3 body language tricks to appear more powerful
-datePublished: '2016-12-19T17:38:01.303Z'
-dateModified: '2016-12-19T17:38:00.773Z'
+datePublished: '2017-06-09T16:30:11.337Z'
+dateModified: '2017-06-09T16:30:10.443Z'
 via: {}
 inFeed: true
 sourcePath: _posts/2016-10-28-3-body-language-tricks-to-appear-more-powerful.md
