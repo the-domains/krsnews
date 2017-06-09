@@ -43,13 +43,13 @@ app_links:
     type: android
 isBasedOnUrl: 'https://medium.com/@garyvee/find-your-happiness-812e9ab08343'
 title: Find Your Happiness - Gary Vaynerchuk
-datePublished: '2017-06-09T16:18:09.206Z'
-dateModified: '2017-06-09T16:18:09.081Z'
+datePublished: '2017-06-09T16:30:11.269Z'
+dateModified: '2017-06-09T16:30:10.443Z'
 via: {}
 inFeed: true
 sourcePath: _posts/2017-06-09-find-your-happiness-gary-vaynerchuk-medium.md
-datePublishedOriginal: '2017-06-09T16:18:09.206Z'
 starred: false
+datePublishedOriginal: '2017-06-09T16:18:09.206Z'
 _type: Article
 _context: 'http://schema.org'
 
