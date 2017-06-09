@@ -17,18 +17,23 @@ keywords:
   - find
   - ted
   - book
-description: "Whether it was during a career aptitude test or in a heart-to-heart chat, chances are someone has talked to you about how to \"find your calling.\" It's one of those phrases people toss about. But StoryCorps founder Dave Isay takes issue with it ... specifically, the verb."
+description: >-
+  Whether it was during a career aptitude test or in a heart-to-heart chat,
+  chances are someone has talked to you about how to "find your calling." It's
+  one of those phrases people toss about. But StoryCorps founder Dave Isay takes
+  issue with it ... specifically, the verb.
 inLanguage: en
 app_links: []
-isBasedOnUrl: 'http://blog.ed.ted.com/2016/05/10/7-ideas-about-finding-the-work-you-were-meant-to-do/'
+isBasedOnUrl: >-
+  http://blog.ed.ted.com/2016/05/10/7-ideas-about-finding-the-work-you-were-meant-to-do/
 title: 7 ideas about finding the work you were meant to do
-datePublished: '2016-05-13T07:23:24.499Z'
-dateModified: '2016-05-13T07:19:25.191Z'
-starred: false
+datePublished: '2017-06-09T16:30:11.349Z'
+dateModified: '2017-06-09T16:30:10.443Z'
 sourcePath: _posts/2016-05-13-7-ideas-about-finding-the-work-you-were-meant-to-do.md
+starred: false
+datePublishedOriginal: '2016-05-13T07:22:42.158Z'
+via: {}
 inFeed: true
-hasPage: false
-inNav: false
 _context: 'http://schema.org'
 _type: MediaObject
 
