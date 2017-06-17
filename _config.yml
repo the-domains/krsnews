@@ -1,12 +1,4 @@
-name: Motivation & Personal Development
-favicon: >-
-  https://the-grid-user-content.s3-us-west-2.amazonaws.com/926f16c3-baf6-4569-b2d2-a2fbd140b05c.png
-logo: >-
-  https://the-grid-user-content.s3-us-west-2.amazonaws.com/de020ac7-2fe6-4d40-ae86-1204981717c6.png
-layout_spectrum: 0.24072570168643748
 typography_spectrum: 0.571933125991116
-analytics:
-  google: UA-79126334-1
 color:
   brandColors:
     - '#000000'
@@ -18,12 +10,17 @@ color:
   lightness: 0.13698965481288805
   saturation: 0.3203553657206974
   rhythmicContrast: 0.13620826622148477
-title: Motivation & Personal Development
-description: motivation. inspiration. development.
+github: true
+layout_spectrum: 0.24072570168643748
+analytics:
+  google: UA-79126334-1
 author:
   name: Kristoffer Rose Svarre
   url: 'https://www.linkedin.com/in/ksvarre'
   email: ksvarre@gmail.com
+logo: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/de020ac7-2fe6-4d40-ae86-1204981717c6.png
+name: Motivation & Personal Development
 navigation:
   - name: Home
     url: 'http://think-like.me'
@@ -40,5 +37,11 @@ navigation:
   - name: About Me
     url: 'https://www.linkedin.com/in/ksvarre'
     type: external
+  - name: Crypto Economics & Blockchain Technology
+    url: 'https://crypto.think-like.me'
+    type: external
+favicon: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/926f16c3-baf6-4569-b2d2-a2fbd140b05c.png
+title: Motivation & Personal Development
 content: []
-github: true
+description: motivation. inspiration. development.
