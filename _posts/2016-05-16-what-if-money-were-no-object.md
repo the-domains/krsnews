@@ -39,14 +39,14 @@ app_links:
     name: Vimeo
     id: com.vimeo.android.videoapp
 title: What if money were no object
-datePublished: '2017-06-09T16:30:11.328Z'
-dateModified: '2017-06-09T16:30:10.443Z'
+datePublished: '2017-10-29T18:08:11.824Z'
+dateModified: '2017-10-29T18:08:11.627Z'
 sourcePath: _posts/2016-05-16-what-if-money-were-no-object.md
 via: {}
 inFeed: true
 hasPage: true
+datePublishedOriginal: '2017-10-29T18:08:11.824Z'
 starred: false
-datePublishedOriginal: '2016-10-08T10:37:00.319Z'
 url: what-if-money-were-no-object/index.html
 _type: VideoObject
 _context: 'http://schema.org'
