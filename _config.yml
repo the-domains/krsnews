@@ -26,7 +26,7 @@ author:
   email: ksvarre@gmail.com
 navigation:
   - name: Home
-    url: 'http://think-like.me'
+    url: 'https://think-like.me'
     type: external
   - name: Technology & Science
     url: 'http://ai.think-like.me'
