@@ -29,7 +29,7 @@ navigation:
     url: 'https://think-like.me'
     type: external
   - name: Technology & Science
-    url: 'http://ai.think-like.me'
+    url: 'https://ai.think-like.me'
     type: external
   - name: 'Business, Innovation & Entrepreneurship'
     url: 'http://business.think-like.me'
